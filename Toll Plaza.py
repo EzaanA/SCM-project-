@@ -1,4 +1,4 @@
-# Program to be used by worker at Toll Plaza.
+#Program to be used by worker at Toll Plaza.
 from datetime import datetime
 
 dict_veh = {"C": "Car", "J": "Jeep", "B": "Bus", "T": "Truck", "M": "Mini Bus",
